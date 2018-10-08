@@ -32,7 +32,8 @@
 
 .archive {
   width: 30%;
-  display: inline-block
+  display: inline-block;
+  margin: 1%;
 }
 
 .box {
