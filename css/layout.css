@@ -63,7 +63,7 @@
   bottom: 1px;
 }
 
-.follow {
+.border-right.follow {
   position: relative;
   bottom: 32px;
   border: none;
