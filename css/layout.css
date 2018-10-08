@@ -34,8 +34,7 @@
   width: 30%;
   display: inline-block;
   margin: 1%;
-  position: relative;
-  top: 15px;
+  overflow: auto;
 }
 
 .box {
