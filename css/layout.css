@@ -38,7 +38,7 @@
 
 .container {
   width: 100%;
-  position: center;
+  align-content: center;
 }
 .box {
   width: 30%;
