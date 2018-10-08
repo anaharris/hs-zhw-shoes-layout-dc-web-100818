@@ -24,4 +24,54 @@
 
 /* Posititoning Classes */
 
+h2 .milk-text {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 
+.summer{
+  width: 65%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.archive {
+  width: 30%;
+  display: inline-block;
+  margin: 1%;
+  overflow: auto;
+  margin-right: 0;
+  margin-left: 40px;
+  margin-top: 0;
+}
+
+.box {
+  width: 30%;
+  display: inline-block;
+  margin: 2.2%;
+}
+
+.box.left {
+  margin-left: 0;
+}
+
+.box.right {
+  margin-right: 0;
+}
+
+.contact, .links, .follow {
+  display: inline-block;
+  width: 33%;
+  padding-left: 2px;
+}
+
+.links {
+  position: relative;
+  bottom: 1px;
+}
+
+.follow {
+  position: relative;
+  bottom: 32px;
+  border: none;
+}
