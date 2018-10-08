@@ -24,6 +24,11 @@
 
 /* Posititoning Classes */
 
+.milk-text {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .summer{
   width: 65%;
   display: inline-block;
