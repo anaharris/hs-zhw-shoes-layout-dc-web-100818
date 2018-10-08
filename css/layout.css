@@ -39,11 +39,11 @@
 .box {
   width: 30%;
   display: inline-block;
-  margin: 1.5%;
+  margin: 1.6%;
 }
 
 .box.left {
-  margin-left:  0;
+  margin-left: 0;
 }
 
 .box.right {
