@@ -53,5 +53,6 @@
 }
 
 .border-right {
+  display: inline-block;
   width: 30%;
 }
