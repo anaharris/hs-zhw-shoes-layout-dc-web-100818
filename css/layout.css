@@ -36,10 +36,6 @@
   margin: 1%;
 }
 
-.container {
-  width: 100%;
-  align-content: center;
-}
 .box {
   width: 30%;
   display: inline-block;
