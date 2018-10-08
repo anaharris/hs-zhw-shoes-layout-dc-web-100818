@@ -52,7 +52,7 @@
   margin-right: 0;
 }
 
-.border-right {
+.contact, .links, .follow {
   display: inline-block;
   width: 30%;
 }
